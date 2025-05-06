@@ -1,0 +1,26 @@
+---
+title: "HW 05"
+author: "INSERT YOUR NAME HERE"
+format:
+  html:
+    embed-resources: true
+toc: true
+---
+
+## 1 - Key lyme pie
+
+```{r}
+#| label: label-me-1
+
+```
+
+## 2 - Meaning of life - The data.
+
+
+## 3 - Meaning of life - The visualization.
+
+
+## 4 - Meaning of life - The app.
+
+
+## 5 - Meaning of life - The styled app.
